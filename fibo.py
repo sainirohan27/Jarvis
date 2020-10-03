@@ -1,3 +1,4 @@
+# This is the solution of fibonacci series without using recusion.
 print("enter the no. of terms")
 a=int(input(""))
 print("0\n1\n2\n")
